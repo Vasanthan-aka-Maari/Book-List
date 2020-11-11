@@ -5,11 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #553055;
+  background-color: #706897;
 }
 
 .App {
-  background-color: #4c2a4c;
+  background-color: #52057b;
   margin: 20px auto;
   width: 90%;
   max-width: 700px;
@@ -18,7 +18,7 @@ body {
 .navbar {
   padding: 10px 20px;
   text-align: center;
-  background-color: #6d3d6d;
+  background-color: #ea2c62;
 }
 .navbar h1 {
   margin: 10px 0;
